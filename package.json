@@ -4,7 +4,8 @@
   "description": "Project with JS, adding a class, modularization, dependencies, and a unit test.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+	"start": "node index.js"
+    	"test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
