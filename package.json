@@ -1,0 +1,19 @@
+{
+  "name": "my_javascript_app",
+  "version": "1.0.0",
+  "description": "Project with JS, adding a class, modularization, dependencies, and a unit test.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoCantarell/my_JavaScript_app.git"
+  },
+  "author": "DiegoCantarell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoCantarell/my_JavaScript_app/issues"
+  },
+  "homepage": "https://github.com/DiegoCantarell/my_JavaScript_app#readme"
+}
